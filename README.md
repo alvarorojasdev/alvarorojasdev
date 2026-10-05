@@ -38,4 +38,4 @@ Wedding invitation website (demo with sample data): RSVP stored in Firebase, cou
 
 ---
 
-<sub>🇨🇴 **En español:** desarrollador full-stack con mirada de producto, enfocado en rendimiento web e IA aplicada. Colombiano, vivo en Buenos Aires. Abierto a nuevas oportunidades, remotas o presenciales. Estoy mejorando mi inglés.</sub>
+<sub>**En español:** desarrollador full-stack con mirada de producto, enfocado en rendimiento web e IA aplicada. Vivo en Buenos Aires. Abierto a nuevas oportunidades, remotas o presenciales. Estoy mejorando mi inglés.</sub>
