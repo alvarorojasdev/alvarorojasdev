@@ -16,19 +16,19 @@ I find the real cause with data before touching code, ship small reversible chan
 A product I designed and built solo for small businesses in Colombia that must comply with occupational health and safety regulations. An AI assistant answers questions citing the actual law: it searches a corpus of 12 regulations (246 articles) and cannot cite anything it hasn't looked up. Free tools, Word document generation, lead capture, and 10 automated evaluation suites.
 `Next.js 16` `React 19` `Tailwind 4` `Groq` `Upstash Redis` `Resend` `Vercel`
 
+**[ai-dev-setup](https://github.com/alvarorojasdev/ai-dev-setup)**
+My setup for working with AI agents in the terminal using OpenCode and free models: short global rules, ask-before-acting permissions, a read-only reviewer agent, commands and skills, and memory emulated with plain Markdown files.
+
 **[invitacion-web](https://github.com/alvarorojasdev/invitacion-web)**
 Wedding invitation website (demo with sample data): RSVP stored in Firebase, countdown, live stream and background music.
 `Astro` `React` `Tailwind` `Firebase`
 
-**[ai-dev-setup](https://github.com/alvarorojasdev/ai-dev-setup)**
-My setup for working with AI agents in the terminal using OpenCode and free models: short global rules, ask-before-acting permissions, a read-only reviewer agent, commands and skills, and memory emulated with plain Markdown files.
-
 ## Tech
 
-**Frontend:** Next.js · React · TypeScript · Tailwind · Playwright · Vitest
-**Backend & data:** Node.js · Express · MongoDB · Firebase · PostgreSQL · Python
-**Cloud & tooling:** Google Cloud · Kubernetes · Docker · Vercel · Sentry · Git · GitLab CI · GitHub
-**AI:** LangChain · LangGraph · LangSmith · Groq · OpenCode · Claude Code · MCP
+- **Frontend:** Next.js · React · TypeScript · Tailwind · Playwright · Vitest
+- **Backend & data:** Node.js · Express · MongoDB · Firebase · PostgreSQL · Python
+- **Cloud & tooling:** Google Cloud · Kubernetes · Docker · Vercel · Sentry · Git · GitLab CI · GitHub
+- **AI:** LangChain · LangGraph · LangSmith · Groq · OpenCode · Claude Code · MCP
 
 ## Contact
 
