@@ -1,4 +1,4 @@
-# Hi, I'm Álvaro 👋
+# Hi, I'm Alvaro 👋
 
 **Full-stack developer with a product mindset, focused on web performance and applied AI.**
 I find the real cause with data before touching code, ship small reversible changes, and measure the result in business terms: load time, cloud cost, delivery rates.
